@@ -1,0 +1,54 @@
+.pesquisarAnuncios {
+  font-weight: bold;
+  display: inline-block;
+  background: #ee1515;
+  padding: 10px;
+  border-radius: 4px;
+  color: #fff;
+  text-decoration: none;
+  margin: 10px;
+}
+
+.pesquisarAnuncios:hover {
+  background-color: rgba(24, 9, 53, 0.77);
+  color: #fff;
+  text-decoration: none;
+}
+
+.anuncios {
+  display: inline-block;
+  color: rgba(23, 1, 63, 0.53);
+  font-weight: bold;
+  background-color: #f2f2f2;
+  padding: 5px;
+  border-radius: 4px;
+  margin-bottom: -10px;
+}
+
+.todosAnuncios {
+  margin-top: 10px;
+  background: #f2f2f2;
+  border: rgba(23, 1, 63, 0.53) solid 2px;
+  border-radius: 4px;
+  padding: 10px;
+  color: rgba(23, 1, 63, 0.53);
+}
+
+.verMais {
+  font-weight: bold;
+  background: #ee1515;
+  padding: 0px 5px;
+  border-radius: 4px;
+  color: #fff;
+  text-decoration: none;
+}
+
+.verMais:hover {
+  background-color: rgba(24, 9, 53, 0.77);
+  color: #fff;
+  text-decoration: none;
+}
+
+.divVerMais {
+  text-align: right;
+}
